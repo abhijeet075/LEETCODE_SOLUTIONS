@@ -12,14 +12,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -28,12 +31,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1510-stone-game-iv) |
 ## Binary Search
 |  |
 | ------- |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2226-maximum-candies-allocated-to-k-children) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
