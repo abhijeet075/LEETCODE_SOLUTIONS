@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2029-stone-game-ix) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
