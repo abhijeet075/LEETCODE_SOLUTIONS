@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0046-permutations) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1140-stone-game-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
