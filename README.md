@@ -150,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0046-permutations) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
