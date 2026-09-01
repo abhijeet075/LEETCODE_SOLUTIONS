@@ -89,23 +89,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0617-merge-two-binary-trees](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0617-merge-two-binary-trees) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0617-merge-two-binary-trees](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0617-merge-two-binary-trees](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0617-merge-two-binary-trees](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0617-merge-two-binary-trees) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
