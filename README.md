@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0437-path-sum-iii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0437-path-sum-iii) |
 | [0617-merge-two-binary-trees](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0617-merge-two-binary-trees) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0437-path-sum-iii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0437-path-sum-iii) |
 | [0617-merge-two-binary-trees](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0437-path-sum-iii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0437-path-sum-iii) |
 | [0617-merge-two-binary-trees](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0617-merge-two-binary-trees) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
