@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0115-distinct-subsequences) |
 | [1140-stone-game-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1510-stone-game-iv) |
 ## Minimax
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0115-distinct-subsequences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
