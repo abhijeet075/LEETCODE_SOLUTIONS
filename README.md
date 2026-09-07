@@ -174,4 +174,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0177-nth-highest-salary](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0177-nth-highest-salary) |
 | [0607-sales-person](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0607-sales-person) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
