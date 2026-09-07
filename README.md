@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0046-permutations) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1140-stone-game-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0177-nth-highest-salary) |
 | [0607-sales-person](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0607-sales-person) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
