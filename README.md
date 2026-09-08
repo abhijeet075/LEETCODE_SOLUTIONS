@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
