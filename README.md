@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0437-path-sum-iii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0617-merge-two-binary-trees) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0437-path-sum-iii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -125,12 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0437-path-sum-iii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0617-merge-two-binary-trees) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
 ## String
 |  |
