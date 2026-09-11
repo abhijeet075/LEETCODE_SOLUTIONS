@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0617-merge-two-binary-trees) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0617-merge-two-binary-trees) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0617-merge-two-binary-trees) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
 ## String
@@ -195,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0027-remove-element) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
