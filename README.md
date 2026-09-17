@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1510-stone-game-iv) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0836-rectangle-overlap) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
