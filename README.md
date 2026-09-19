@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Memoization
 |  |
 | ------- |
