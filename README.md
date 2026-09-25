@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0617-merge-two-binary-trees](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0617-merge-two-binary-trees) |
+| [1096-brace-expansion-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0113-path-sum-ii) |
+| [1096-brace-expansion-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
 ## Database
 |  |
 | ------- |
@@ -253,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
