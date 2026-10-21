@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0177-nth-highest-salary) |
+| [0550-game-play-analysis-iv](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0550-game-play-analysis-iv) |
 | [0607-sales-person](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0607-sales-person) |
 | [1174-immediate-food-delivery-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1174-immediate-food-delivery-ii) |
 | [1251-average-selling-price](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1251-average-selling-price) |
