@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0550-game-play-analysis-iv](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0550-game-play-analysis-iv) |
 | [0596-classes-with-at-least-5-students](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0607-sales-person) |
+| [0619-biggest-single-number](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0619-biggest-single-number) |
 | [1070-product-sales-analysis-iii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1070-product-sales-analysis-iii) |
 | [1174-immediate-food-delivery-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1174-immediate-food-delivery-ii) |
 | [1251-average-selling-price](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1251-average-selling-price) |
