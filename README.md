@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0177-nth-highest-salary) |
+| [0180-consecutive-numbers](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0196-delete-duplicate-emails) |
 | [0550-game-play-analysis-iv](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0550-game-play-analysis-iv) |
 | [0596-classes-with-at-least-5-students](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0596-classes-with-at-least-5-students) |
