@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-product-sales-analysis-iii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1070-product-sales-analysis-iii) |
 | [1164-product-price-at-a-given-date](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1174-immediate-food-delivery-ii) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1251-average-selling-price](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1327-list-the-products-ordered-in-a-period) |
