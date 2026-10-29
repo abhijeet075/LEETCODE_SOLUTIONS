@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0617-merge-two-binary-trees) |
+| [0841-keys-and-rooms](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0841-keys-and-rooms) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0301-remove-invalid-parentheses](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0301-remove-invalid-parentheses) |
 | [0617-merge-two-binary-trees](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0617-merge-two-binary-trees) |
+| [0841-keys-and-rooms](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0841-keys-and-rooms) |
 | [1096-brace-expansion-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -362,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0374-guess-number-higher-or-lower) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
