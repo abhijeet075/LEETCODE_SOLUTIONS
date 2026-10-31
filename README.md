@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
+| [0441-arranging-coins](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0441-arranging-coins) |
 | [0836-rectangle-overlap](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0441-arranging-coins) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2226-maximum-candies-allocated-to-k-children) |
