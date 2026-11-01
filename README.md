@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0046-permutations) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0835-image-overlap](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0115-distinct-subsequences) |
+| [0300-longest-increasing-subsequence](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0441-arranging-coins) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -372,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0841-keys-and-rooms) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
