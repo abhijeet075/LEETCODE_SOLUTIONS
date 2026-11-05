@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2029-stone-game-ix) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Bit Manipulation
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2029-stone-game-ix) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Simulation
 |  |
