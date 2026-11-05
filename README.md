@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2029-stone-game-ix) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Simulation
 |  |
 | ------- |
