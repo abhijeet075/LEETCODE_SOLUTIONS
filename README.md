@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0528-random-pick-with-weight](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0528-random-pick-with-weight) |
 | [0835-image-overlap](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0528-random-pick-with-weight](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0528-random-pick-with-weight) |
 | [0836-rectangle-overlap](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0528-random-pick-with-weight](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0528-random-pick-with-weight) |
 | [1140-stone-game-ii](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/3903-smallest-stable-index-i) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0441-arranging-coins) |
+| [0528-random-pick-with-weight](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0528-random-pick-with-weight) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -408,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/abhijeet075/LEETCODE_SOLUTIONS/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
